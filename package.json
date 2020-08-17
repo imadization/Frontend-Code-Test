@@ -1,0 +1,22 @@
+{
+  "name": "frontend-code-test",
+  "version": "1.0.0",
+  "description": "Bongo Frontend Code Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imadization/Frontend-Code-Test.git"
+  },
+  "author": "Imad Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imadization/Frontend-Code-Test/issues"
+  },
+  "homepage": "https://github.com/imadization/Frontend-Code-Test#readme",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
