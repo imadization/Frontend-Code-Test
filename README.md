@@ -5,7 +5,7 @@
 Write a function that detects if two strings are an anagram e.g. ‘bleat’ and ‘table’ are
 anagrams but ‘eat’ and ‘tar’ are not.
 
-### [Solution](#)
+### [Solution](https://github.com/imadization/Frontend-Code-Test/tree/master/anagram)
 
 ## 2. Design Pattern
 
@@ -22,10 +22,10 @@ Explain the design pattern used in following:
 - Explain how can you use the pattern to create car and plane class?
 - Use a different design pattern for this solution.
 
-### [Solution](#)
+### [Solution](https://github.com/imadization/Frontend-Code-Test/tree/master/designPattern)
 
 ## 3. Video Player
 
 Write a video player application with ‘Play’, ‘Forward’, ‘Rewind’ functionalities. Please write pseudocode for this program and explain the design pattern you will use to develop these three functionalities.
 
-### [Solution](#)
+### [Solution](https://github.com/imadization/Frontend-Code-Test/tree/master/VideoPlayer)
